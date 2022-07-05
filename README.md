@@ -5,7 +5,7 @@ Como executar o Script:
 Execute npm install para instalar as dependências;
 
 Altere os parâmetros do arquivo Home.js: "latitude" e "longitude" das funções "AllMerchants..."
-OBS: É Necessário colocar o endereço equivalente aos parâmetros no site do ifood (https://www.ifood.com.br/restaurantes;
+OBS: É Necessário colocar o endereço equivalente aos parâmetros no site do ifood (https://www.ifood.com.br/restaurantes);
 
 Execute o comando: node "NomeDoArquivo".js (Esta parte pode levar cerca de 20 minutos para executar (dependendo da quantidade de lojas),
 pois o script está acessando cada loja, extraindo os dados e armazenando no arquivo out.csv);
