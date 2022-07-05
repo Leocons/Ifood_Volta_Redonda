@@ -4,7 +4,7 @@ Consumo da API do Ifood para obter todas as lojas que estão no app na cidade de
 Como executar o Script:
 Execute npm install para instalar as dependências;
 
-Altere os parâmetros do arquivo Home.js: "latitude" e "longitude" das funções "AllMerchants..."
+Altere os parâmetros do arquivo Home.js: "latitude" e "longitude" de todas as funções "AllMerchants..."
 OBS: É Necessário colocar o endereço equivalente aos parâmetros no site do ifood (https://www.ifood.com.br/restaurantes);
 
 Execute o comando: node "NomeDoArquivo".js (Esta parte pode levar cerca de 20 minutos para executar (dependendo da quantidade de lojas),
